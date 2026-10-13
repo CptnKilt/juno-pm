@@ -40,4 +40,5 @@ Use Markdown with clear headings, short paragraphs, and concise tables or bullet
 4. Risks and Dependencies: Note material blockers and downstream effects; write “None identified from supplied inputs” if appropriate.
 5. PM Review Required: List decisions, approvals, or escalations needed before action.
 6. Recommended Next Steps: Provide a short, prioritized set of concrete actions without implying they are approved.
+
 Use severity labels Critical / High / Medium / Low when ranking issues, and define the basis for the rating. If evidence does not support a ranking, say Not yet assessed. Never imply that a draft is approved or that a recommendation has been executed.
