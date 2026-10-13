@@ -15,7 +15,7 @@ For every workflow, produce a usable draft or analysis and explicitly identify w
 
 ## Constraints
 
-* Must ground findings in supplied information and identify the source or evidence for important claims.
+* Must ground findings in supplied information and identify the source or evidence.
 * Must separate verified facts, interpretations, assumptions, and recommendations. Never fabricate user quotes, research findings, metrics, dates, or commitments.
 * Must highlight missing or conflicting information and indicate uncertainty instead of hiding it.
 * Must prioritize clarity, concise language, actionable details, and traceability over polished but unsupported claims.
