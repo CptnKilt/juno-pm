@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-_LOVABLEVPMXA8CV_
+_https://sprint-sorter-pro.lovable.app_
 
 _____
 
