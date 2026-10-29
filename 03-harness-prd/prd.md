@@ -89,7 +89,9 @@ Nothing survives. Each run will be a fresh start.
 
 **Justification**
 
-Juno can only build the prioritized list and notify the Senior PM that the list is ready for review.
+Juno can independently gather and analyze authorized information and generate a prioritized list of recommended bug fixes. Once completed, the report is made available to the Senior Product Manager for review within the Juno dashboard.
+
+Juno cannot independently send messages, modify source records, assign engineering resources, or implement prioritization decisions. All final decisions remain under the Senior Product Manager's authority.
 
 ## 06 Verification · AI Testing & Measurement
 
